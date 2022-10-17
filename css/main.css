@@ -1170,7 +1170,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffff0a;
+  background: #9ef21a;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2454,9 +2454,9 @@ hr {
 .menu .menu-item .badge {
   background: #fff;
   border-radius: 10px;
-  color: $white-light;
+  color: #555;
   padding: 1px 4px;
-  text-shadow: 1px 1px 0 rgba(0,0,0,0.1);
+  text-shadow: 1px 1px 0 rgba(0,0,0,0);
 }
 .posts-expand.index .post-title,
 .posts-expand.index .post-meta {
