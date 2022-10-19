@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://shy001012.top/2022/09/30/hello-world/</loc>
+    <loc>http://shy001012.top/about/index.html</loc>
     
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://shy001012.top/about/index.html</loc>
+    <loc>http://shy001012.top/2022/09/30/hello-world/</loc>
     
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +58,7 @@
 
   <url>
     <loc>http://shy001012.top/</loc>
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,28 +66,28 @@
   
   <url>
     <loc>http://shy001012.top/tags/%E5%A5%BD/</loc>
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://shy001012.top/tags/%E5%9D%8F/</loc>
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://shy001012.top/tags/%E4%B8%8D%E5%A5%BD%E4%B8%8D%E5%9D%8F/</loc>
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://shy001012.top/tags/%E6%A0%87%E7%AD%BE%E4%BA%91%E7%9A%84%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -95,22 +95,22 @@
 
   
   <url>
-    <loc>http://shy001012.top/categories/%E5%93%B2%E5%AD%A6/</loc>
-    <lastmod>2022-10-17</lastmod>
+    <loc>http://shy001012.top/categories/%E5%A5%BD%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2022-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://shy001012.top/categories/%E5%A5%BD%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2022-10-17</lastmod>
+    <loc>http://shy001012.top/categories/%E5%93%B2%E5%AD%A6/</loc>
+    <lastmod>2022-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://shy001012.top/categories/%E5%A5%BD%E6%96%87%E7%AB%A0/%E7%9C%9F%E7%9A%84%E5%A5%BD/</loc>
-    <lastmod>2022-10-17</lastmod>
+    <lastmod>2022-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
