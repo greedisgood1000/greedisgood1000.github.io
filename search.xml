@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>什么是酉空间</title>
+    <url>/2023/01/26/%E4%BB%80%E4%B9%88%E6%98%AF%E9%85%89%E7%A9%BA%E9%97%B4/</url>
+    <content><![CDATA[<h2 id="什么是酉空间"><a href="#什么是酉空间" class="headerlink" title="什么是酉空间"></a>什么是酉空间</h2><p><em>酉空间是将内积拓展到复数域后的结果</em></p>
+<span id="more"></span>
+
+<p><img src="/images/article2/1.png"></p>
+<h3 id="一-从内积说起"><a href="#一-从内积说起" class="headerlink" title="一.从内积说起"></a>一.从内积说起</h3><p><img src="/images/article2/2.png"><br><img src="/images/article2/3.png"></p>
+<h3 id="二-什么是“酉”？"><a href="#二-什么是“酉”？" class="headerlink" title="二.什么是“酉”？"></a>二.什么是“酉”？</h3><p><img src="/images/article2/4.png"><br><img src="/images/article2/5.png"></p>
+<h3 id="三-回顾线性代数"><a href="#三-回顾线性代数" class="headerlink" title="三.回顾线性代数"></a>三.回顾线性代数</h3><h4 id="引例"><a href="#引例" class="headerlink" title="引例"></a>引例</h4><p><img src="/images/article2/6.png"><br><img src="/images/article2/7.png"><br><img src="/images/article2/8.png"><br><img src="/images/article2/9.png"><br><img src="/images/article2/10.png"></p>
+<h4 id="可逆，正交，相似"><a href="#可逆，正交，相似" class="headerlink" title="可逆，正交，相似"></a>可逆，正交，相似</h4><p><img src="/images/article2/11.png"><br><img src="/images/article2/12.png"><br><img src="/images/article2/13.png"><br><img src="/images/article2/14.png"><br><img src="/images/article2/15.png"></p>
+<h4 id="相似与相似对角化"><a href="#相似与相似对角化" class="headerlink" title="相似与相似对角化"></a>相似与相似对角化</h4><p><img src="/images/article2/16.png"><br><img src="/images/article2/17.png"><br><img src="/images/article2/18.png"><br><img src="/images/article2/19.png"></p>
+<h3 id="四-欧氏空间与酉空间"><a href="#四-欧氏空间与酉空间" class="headerlink" title="四.欧氏空间与酉空间"></a>四.欧氏空间与酉空间</h3><h4 id="欧氏空间与酉空间的关系"><a href="#欧氏空间与酉空间的关系" class="headerlink" title="欧氏空间与酉空间的关系"></a>欧氏空间与酉空间的关系</h4><p><img src="/images/article2/20.png"><br><img src="/images/article2/21.png"><br><img src="/images/article2/22.png"></p>
+<h4 id="相似对角化的条件"><a href="#相似对角化的条件" class="headerlink" title="相似对角化的条件"></a>相似对角化的条件</h4><p><img src="/images/article2/23.png"></p>
+<h3 id="五-总结"><a href="#五-总结" class="headerlink" title="五.总结"></a>五.总结</h3><p><img src="/images/article2/24.png"><br><img src="/images/article2/25.png" alt="红框：相似对角化相关；蓝框：欧式空间与酉空间相关"><br><img src="/images/article2/26.png" alt="蓝框：承接上页；绿框：酉空间中几个有意思的矩阵"></p>
+<p>原文参见知乎：<a href="https://www.zhihu.com/question/36628456/answer/2737846339">https://www.zhihu.com/question/36628456/answer/2737846339</a></p>
+<h3 id="六-附录"><a href="#六-附录" class="headerlink" title="六.附录"></a>六.附录</h3><p><img src="/images/article2/27.png"></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+      <tags>
+        <tag>线性代数</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>简介</title>
     <url>/2022/09/30/hello-world/</url>
     <content><![CDATA[<p>测试文件：<br>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -24,31 +49,6 @@
       </categories>
       <tags>
         <tag>test</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>什么是酉空间</title>
-    <url>/2023/01/26/%E4%BB%80%E4%B9%88%E6%98%AF%E9%85%89%E7%A9%BA%E9%97%B4/</url>
-    <content><![CDATA[<h2 id="什么是酉空间"><a href="#什么是酉空间" class="headerlink" title="什么是酉空间"></a>什么是酉空间</h2><p><em>酉空间是将内积拓展到复数域后的结果</em></p>
-<span id="more"></span>
-
-<p><img src="/images/article2/1.png"></p>
-<h3 id="一-从内积说起"><a href="#一-从内积说起" class="headerlink" title="一.从内积说起"></a>一.从内积说起</h3><p><img src="/images/article2/2.png"><br><img src="/images/article2/3.png"></p>
-<h3 id="二-什么是“酉”？"><a href="#二-什么是“酉”？" class="headerlink" title="二.什么是“酉”？"></a>二.什么是“酉”？</h3><p><img src="/images/article2/4.png"><br><img src="/images/article2/5.png"></p>
-<h3 id="三-回顾线性代数"><a href="#三-回顾线性代数" class="headerlink" title="三.回顾线性代数"></a>三.回顾线性代数</h3><h4 id="引例"><a href="#引例" class="headerlink" title="引例"></a>引例</h4><p><img src="/images/article2/6.png"><br><img src="/images/article2/7.png"><br><img src="/images/article2/8.png"><br><img src="/images/article2/9.png"><br><img src="/images/article2/10.png"></p>
-<h4 id="可逆，正交，相似"><a href="#可逆，正交，相似" class="headerlink" title="可逆，正交，相似"></a>可逆，正交，相似</h4><p><img src="/images/article2/11.png"><br><img src="/images/article2/12.png"><br><img src="/images/article2/13.png"><br><img src="/images/article2/14.png"><br><img src="/images/article2/15.png"></p>
-<h4 id="相似与相似对角化"><a href="#相似与相似对角化" class="headerlink" title="相似与相似对角化"></a>相似与相似对角化</h4><p><img src="/images/article2/16.png"><br><img src="/images/article2/17.png"><br><img src="/images/article2/18.png"><br><img src="/images/article2/19.png"></p>
-<h3 id="四-欧氏空间与酉空间"><a href="#四-欧氏空间与酉空间" class="headerlink" title="四.欧氏空间与酉空间"></a>四.欧氏空间与酉空间</h3><h4 id="欧氏空间与酉空间的关系"><a href="#欧氏空间与酉空间的关系" class="headerlink" title="欧氏空间与酉空间的关系"></a>欧氏空间与酉空间的关系</h4><p><img src="/images/article2/20.png"><br><img src="/images/article2/21.png"><br><img src="/images/article2/22.png"></p>
-<h4 id="相似对角化的条件"><a href="#相似对角化的条件" class="headerlink" title="相似对角化的条件"></a>相似对角化的条件</h4><p><img src="/images/article2/23.png"></p>
-<h3 id="五-总结"><a href="#五-总结" class="headerlink" title="五.总结"></a>五.总结</h3><p><img src="/images/article2/24.png"><br><img src="/images/article2/25.png" alt="红框：相似对角化相关；蓝框：欧式空间与酉空间相关"><br><img src="/images/article2/26.png" alt="蓝框：承接上页；绿框：酉空间中几个有意思的矩阵"></p>
-<p>原文参见知乎：<a href="https://www.zhihu.com/question/36628456/answer/2737846339">https://www.zhihu.com/question/36628456/answer/2737846339</a></p>
-<h3 id="六-附录"><a href="#六-附录" class="headerlink" title="六.附录"></a>六.附录</h3><p><img src="/images/article2/27.png"></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-      <tags>
-        <tag>线性代数</tag>
       </tags>
   </entry>
   <entry>
